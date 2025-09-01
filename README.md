@@ -4,3 +4,8 @@
 
 ### 一些有用的组件：
 - code-box；
+- loading；
+- login1，login2，login3；
+- 404；
+
+
